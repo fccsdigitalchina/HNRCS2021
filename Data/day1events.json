@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Introduction to the Conference",
+        "startingTime": "09:00",
+        "endTime": "09:10",
+        "speakers": "Henrike Rudolph & Chen Song",
+        "category": "ceremony"
+    },
+    {
+        "title": "Keynote Speech: “Kinship and Collegiality in Chinese Literati Networks”",
+        "startingTime": "09:10",
+        "endTime": "09:50",
+        "speakers": "Peter K. Bol",
+        "category": "keynote"
+    },
+    {
+        "title": "Break",
+        "startingTime": "09:50",
+        "endTime": "10:00",
+        "category": "break"
+    },
+    {
+        "title": "Project Presentation: Early Chinese Periodicals Online Database (ECPO)",
+        "startingTime": "10:00",
+        "endTime": "10:15",
+        "speakers": "Matthias Arnold & Henrike Rudolph",
+        "category": "workshop"
+    },
+    {
+        "title": "Workshop (beginner level): Network Analysis with CBDB Data",
+        "startingTime": "10:15",
+        "endTime": "11:30",
+        "speakers": "Michael Fuller and Wang Hongsu",
+        "category": "workshop"
+    },
+    {
+        "title": "End of Day 1",
+        "startingTime": "11:30",
+        "endTime": "11:30",
+        "category": "ending"
+    }
+]

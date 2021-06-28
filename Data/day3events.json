@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Panel Discussion",
+        "startingTime": "09:00",
+        "endTime": "10:00",
+        "category": "panel",
+        "paper": ["Anne Chao and Liu Zhangdong, “Network of Words: A Co-Occurrence Analysis of Nation-Building Terms in the Writings of Liang Qichao and Chen Duxiu”", "Marilyn Levine, “Forged in Europe: Post-WWI Chinese Revolutionary Leaders in Europe”", "Henrike Rudolph, “Transforming Networks and Changing Duties: Tracing Structural Changes in the Jiusan Study Society (1949-1990)”"]
+    },
+    {
+        "title": "Project Presentation: China Historical Christian Database",
+        "startingTime": "10:00",
+        "endTime": "10:15",
+        "speakers": "Alex Mayfield",
+        "category": "workshop"
+    },
+    {
+        "title": "Workshop (intermediate level): Hierarchical Clustering and Heat Map",
+        "startingTime": "10:15",
+        "endTime": "11:30",
+        "speakers": "Marilyn Levine",
+        "category": "workshop"
+    },
+    {
+        "title": "End of Day 3",
+        "startingTime": "11:30",
+        "endTime": "11:30",
+        "category": "ending"
+    }
+]

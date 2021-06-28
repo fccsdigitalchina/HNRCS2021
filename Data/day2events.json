@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Panel Discussion",
+        "startingTime": "09:00",
+        "endTime": "10:00",
+        "category": "panel",
+        "paper": ["SHANG Wenyi 尚聞一, “Solidity in a Turbulent Flow: The Social Network of Aristocratic Families in the Eastern Jin Dynasty (317-420 C.E.)”", "XIONG Huei-Lan 熊慧嵐, “Path toward the Top Leadership: A Network Analysis of the Civil Service System in the Early Southern Song (1131-1164)”", "Marcus Bingenheimer, “Buddhist ‘Influencers’ in Late Ming”"]
+    },
+    {
+        "title": "Workshop (beginner level): Centrality and Modularity Analysis in Gephi and Visone",
+        "startingTime": "10:10",
+        "endTime": "11:30",
+        "speakers": "Xiong Huei-Lan & Song Chen",
+        "category": "workshop"
+    },
+    {
+        "title": "End of Day 2",
+        "startingTime": "11:30",
+        "endTime": "11:30",
+        "category": "ending"
+    }
+]

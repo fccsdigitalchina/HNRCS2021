@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Project Presentation: TextPAIR Viewer (TPV) 1.0",
+        "startingTime": "09:00",
+        "endTime": "09:15",
+        "speakers": "Jeffrey Tharsen & Clovis Gladstone",
+        "category": "workshop"
+    },
+    {
+        "title": "Workshop (intermediate level): ERGM and Network Simulation",
+        "startingTime": "09:15",
+        "endTime": "10:30",
+        "speakers": "Wenyi Shang",
+        "category": "workshop"
+    },
+    {
+        "title": "Keynote Speech on Historical Network Research from Methodological and Comparative Perspectives",
+        "startingTime": "10:10",
+        "endTime": "10:50",
+        "speakers": "Aline Deicke",
+        "category": "keynote"
+    },
+    {
+        "title": "Concluding Discussion",
+        "startingTime": "10:50",
+        "endTime": "11:20",
+        "category": "ceremony"
+    },
+    {
+        "title": "End of Day 4",
+        "startingTime": "11:30",
+        "endTime": "11:30",
+        "category": "ending"
+    }
+]
