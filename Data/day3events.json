@@ -11,7 +11,8 @@
         "startingTime": "10:00",
         "endTime": "10:15",
         "speakers": "Alex Mayfield",
-        "category": "workshop"
+        "category": "workshop",
+        "url": "https://chcdatabase.com/"
     },
     {
         "title": "Workshop (intermediate level): Hierarchical Clustering and Heat Map",

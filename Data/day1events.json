@@ -24,14 +24,16 @@
         "startingTime": "10:00",
         "endTime": "10:15",
         "speakers": "Matthias Arnold & Henrike Rudolph",
-        "category": "workshop"
+        "category": "workshop",
+        "url": "https://kjc-sv034.kjc.uni-heidelberg.de/ecpo/"
     },
     {
         "title": "Workshop (beginner level): Network Analysis with CBDB Data",
         "startingTime": "10:15",
         "endTime": "11:30",
         "speakers": "Michael Fuller and Wang Hongsu",
-        "category": "workshop"
+        "category": "workshop",
+        "url": "https://projects.iq.harvard.edu/cbdb"
     },
     {
         "title": "End of Day 1",

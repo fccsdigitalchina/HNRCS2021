@@ -4,7 +4,8 @@
         "startingTime": "09:00",
         "endTime": "09:15",
         "speakers": "Jeffrey Tharsen & Clovis Gladstone",
-        "category": "workshop"
+        "category": "workshop",
+        "url": "https://users.rcc.uchicago.edu/~jcarlsen/TPV/TPV_histories/"
     },
     {
         "title": "Workshop (intermediate level): ERGM and Network Simulation",
